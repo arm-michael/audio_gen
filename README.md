@@ -1,4 +1,4 @@
-# sao_prototype
+# audio_gen
 Prototyping with the stable audio open model. Follow these instructions to get the script running on your Mac
 
 
@@ -10,8 +10,8 @@ Prototyping with the stable audio open model. Follow these instructions to get t
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/sao_prototype.git
-   cd sao_prototype
+   git clone https://github.com/arm-michael/audio_gen
+   cd audio_gen
    ```
 
 2. **Create a Virtual Environment**:
